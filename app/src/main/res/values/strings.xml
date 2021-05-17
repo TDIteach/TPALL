@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TPALL</string>
+    <string-array name="filieres">
+        <item>TDI</item>
+        <item>TRI</item>
+        <item>TDM</item>
+    </string-array>
+</resources>
